@@ -35,7 +35,6 @@ const Footer = () => {
           ))}
         </nav>
 
-
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
           © 2025 Shivansh Panwar. All rights reserved.
