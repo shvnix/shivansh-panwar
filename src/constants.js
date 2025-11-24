@@ -201,7 +201,7 @@ export const SkillsInfo = [
         "Focusly is a modern task management web app that helps users organize their lives with ease. It features Google login, phone authentication via Firebase, real-time user data tracking with Firestore, and a built-in Pomodoro timer to boost productivity. Designed with a sleek, responsive UI using TailwindCSS, Focusly ensures a smooth, secure, and engaging user experience.",
       image: ogLogo,
       tags: ["Python", "HTML", "CSS", "Firebase", "NoSQL", "Auth2.0", "vps hosting"],
-      github: "https://github.com/shivansshhhh/focusly",
+      github: "https://github.com/shvnix/focusly",
       webapp: "https://betsito.com/",
     },
     {
@@ -211,7 +211,7 @@ export const SkillsInfo = [
         "An efficient and real-time pharmacy billing system integrated with stock data and a customer-facing Android app. Users can instantly check local medicine availability, ensuring transparency and convenience in medical purchases.",
       image: githubdetLogo,
       tags: ["JAVA", "HTML", "CSS", "PHP", "REST", "API", "App Deveoplment", "Flutter"],
-      github: "https://github.com/shivansshhhh/innovative_billing",
+      github: "https://github.com/shvnix/innovative_billing",
     },
     {
       id: 2,
@@ -220,7 +220,7 @@ export const SkillsInfo = [
         "An intelligent and interactive Rubik’s Cube solver that uses advanced algorithms to compute optimal solutions from any cube state. The system provides a visual interface for inputting cube colors and demonstrates step-by-step solving, making it ideal for enthusiasts and learners alike.",
       image: csprepLogo,
       tags: ["Python", "OpenCV", "Kociemba’s Algorithm", "Algorithm Design & Problem Solving", "File I/O & CLI interaction"],
-      github: "https://github.com/shivansshhhh/rubik-s-cube-solver",
+      github: "https://github.com/shvnix/rubik-s-cube-solver",
     },
     {
       id: 3,
@@ -229,7 +229,7 @@ export const SkillsInfo = [
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/shivansshhhh/movie-app-frontent",
+      github: "https://github.com/shvnix/movie-app-frontent",
       webapp: "https://movie-app-frontent.vercel.app/",
     },
     {
@@ -239,7 +239,7 @@ export const SkillsInfo = [
         "A smart and secure Telegram bot built with Python to streamline pharmacy payments and customer interaction. This bot enables users to check medicine availability, pay bills instantly, and receive order updates—all within the familiar Telegram interface. Real-time integration with the backend ensures accuracy and convenience.",
       image: npmLogo,
       tags: ["OAuth", "API", "Python", "Automation", "BlockChains"],
-      github: "https://github.com/shivansshhhh/payment-bot-stripe-crypto",
+      github: "https://github.com/shvnix/payment-bot-stripe-crypto",
     },
     {
       id: 5,
@@ -248,7 +248,7 @@ export const SkillsInfo = [
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
       image: taskremLogo,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/shivansshhhh/chrome-extension",
+      github: "https://github.com/shvnix/chrome-extension",
     },
     {
       id: 6,
@@ -257,6 +257,6 @@ export const SkillsInfo = [
         "A growing repository of custom-built cybersecurity tools designed for ethical hacking, penetration testing, and digital forensics. This ongoing project will include network scanners, brute-force utilities, reconnaissance scripts, and more — built with flexibility and real-world use in mind. New tools and features coming soon.",
       image: webverLogo,
       tags: ["HTML", "CSS", "PHP", "Ethical Hacking", "Reverse Eng"],
-      github: "https://github.com/shivansshhhh/cyber-tools",
+      github: "https://github.com/shvnix/cyber-tools",
     },
   ];  

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/shivansshhhh/shivansshhhh.github.io",
+  "homepage": "https://github.com/shvnix/shvnix.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
