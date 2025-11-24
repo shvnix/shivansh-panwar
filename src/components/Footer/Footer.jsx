@@ -36,7 +36,7 @@ const Footer = () => {
         </nav>
 
         {/* Social Media Icons - Responsive */}
-        <div className="flex flex-wrap justify-center space-x-4 mt-6">
+        {/* <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/.kaushik.3511041/" },
             { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
@@ -55,7 +55,7 @@ const Footer = () => {
               {item.icon}
             </a>
           ))}
-        </div>
+        </div> */}
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
