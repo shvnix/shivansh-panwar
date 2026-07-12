@@ -1,4 +1,3 @@
-````markdown
 # 🌐 Shivansh Panwar — Portfolio
 
 > A modern, interactive developer portfolio showcasing my work, projects, technical skills, and journey as a Full Stack Developer.
@@ -6,7 +5,7 @@
 ## 🔗 Live Website
 
 **Visit the portfolio here:**  
-👉 https://www.shvnix.dev/
+https://www.shvnix.dev
 
 This repository contains the complete source code of my personal portfolio, which is deployed on my personal brand domain **shvnix.dev**.
 
@@ -54,21 +53,21 @@ The goal of this portfolio is to provide recruiters, developers, and collaborato
 - CSS3
 - Tailwind CSS
 
-### Backend
+### Libraries
 
-- Node.js
-- Express.js
+- Framer Motion
+- React Icons
+- React Router
 
-### Database
+### Deployment
 
-- MongoDB
+- Vercel
 
-### Tools
+### Development Tools
 
 - Git
 - GitHub
 - VS Code
-- Vercel
 
 ---
 
@@ -76,15 +75,56 @@ The goal of this portfolio is to provide recruiters, developers, and collaborato
 
 ```text
 .
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── pages/
-│   ├── hooks/
-│   ├── utils/
-│   └── ...
+├── public
+│   └── vite.svg
+├── src
+│   ├── assets
+│   │   ├── company_logo
+│   │   │   ├── agc_logo.png
+│   │   │   ├── newtonschool_logo.png
+│   │   │   └── webverse_logo.png
+│   │   ├── education_logo
+│   │   │   ├── bsa_logo.png
+│   │   │   ├── gla_logo.png
+│   │   │   └── vps_logo.png
+│   │   ├── profile2.png
+│   │   ├── tech_logo
+│   │   │   └── (technology icons)
+│   │   └── work_logo
+│   │       └── (project/work images)
+│   │
+│   ├── components
+│   │   ├── About
+│   │   │   └── About.jsx
+│   │   ├── BlurBlob.jsx
+│   │   ├── Contact
+│   │   │   └── Contact.jsx
+│   │   ├── Education
+│   │   │   └── Education.jsx
+│   │   ├── Experience
+│   │   │   └── Experience.jsx
+│   │   ├── Footer
+│   │   │   └── Footer.jsx
+│   │   ├── Navbar
+│   │   │   └── Navbar.jsx
+│   │   ├── Skills
+│   │   │   └── Skills.jsx
+│   │   └── Work
+│   │       └── Work.jsx
+│   │
+│   ├── App.css
+│   ├── App.jsx
+│   ├── constants.js
+│   ├── index.css
+│   └── main.jsx
+│
+├── eslint.config.js
+├── index.html
 ├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
 └── README.md
 ```
 
@@ -140,7 +180,7 @@ This portfolio serves as my professional online presence where I showcase:
 ## 🤝 Connect With Me
 
 Portfolio  
-🌐 https://www.shvnix.dev/
+https://www.shvnix.dev
 
 GitHub  
 https://github.com/shvnix
@@ -163,6 +203,5 @@ This project is open source and available under the MIT License unless stated ot
 ---
 
 <p align="center">
-Built with ❤️ by <strong>Shivansh Panwar</strong>
+Built with ❤️ by <strong>Shvnix</strong>
 </p>
-````
